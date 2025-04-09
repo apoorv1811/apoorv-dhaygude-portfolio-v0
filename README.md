@@ -94,15 +94,15 @@ Also add a crazy, eye-catching homepage animation:
 
 
 Prompt 11:
-change font of my name and above that add animation of hello in 5-6 languages
+- change font of my name and above that add animation of hello in 5-6 languages
 
 
 Prompt 12:
-Add asthetic background black and red theme
+- Add asthetic background black and red theme
 
 
 Prompt 13:
-Upload this resume in dowload resume section Resume_APD_2025.pdf
+- Upload this resume in dowload resume section Resume_APD_2025.pdf
 
 
 Prompt 14:
