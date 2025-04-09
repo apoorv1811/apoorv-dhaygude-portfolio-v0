@@ -107,7 +107,6 @@ Upload this resume in dowload resume section Resume_APD_2025.pdf
 
 Prompt 14:
 - Add a subtle **glowing particle background** (similar to Vanta.js or Three.js)
-![image](https://github.com/user-attachments/assets/1a8e0cb5-b52d-4541-b730-6966c0acffd8)
 
 
 
