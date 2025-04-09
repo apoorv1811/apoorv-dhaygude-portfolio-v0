@@ -6,7 +6,7 @@
 
 
 Prompt 1:
-Create a responsive personal portfolio website using Tailwind CSS and ShadCN components.
+- Create a responsive personal portfolio website using Tailwind CSS and ShadCN components.
 Sections:
 1. Hero Section: Full screen background with my name "Apoorv Pratap Dhaygude", title "Data Engineer | MS in Information Systems @ Northeastern University", and a call-to-action button labeled "Get in Touch".
 2. Projects Section: Title "Projects". Show three cards with titles, technologies used, and bullet points. Projects:
@@ -26,15 +26,15 @@ Sections:
 
 
 Prompt 2: (Iteration)
-Make the hero section full height and center all text vertically. Use a dark background (#1a1a1a) with white text. Add a white border and soft shadow to each project card. On desktop, use a two-column layout for projects. On mobile, use a single column.
+- Make the hero section full height and center all text vertically. Use a dark background (#1a1a1a) with white text. Add a white border and soft shadow to each project card. On desktop, use a two-column layout for projects. On mobile, use a single column.
 
 
 Prompt 3: 
-Ensure all layout and styling is done with Tailwind CSS utility classes. Use ShadCN components where appropriate: Button for the call-to-action, Card for project cards, and Input/Link elements in the contact section.
+- Ensure all layout and styling is done with Tailwind CSS utility classes. Use ShadCN components where appropriate: Button for the call-to-action, Card for project cards, and Input/Link elements in the contact section.
 
 
 Prompt 4:
-Break this UI into reusable components:
+- Break this UI into reusable components:
 - HeroSection
 - ProjectsSection
 - ProjectCard (used in ProjectsSection)
@@ -43,19 +43,19 @@ Ensure each component is self-contained and uses Tailwind CSS + ShadCN component
 
 
 Prompt 5: (Iteration)
-Add smooth fade-in and slide-in animations to all major sections (Hero, Projects, Contact) when they scroll into view. Use Framer Motion for the animations and integrate it with Tailwind CSS.
+- Add smooth fade-in and slide-in animations to all major sections (Hero, Projects, Contact) when they scroll into view. Use Framer Motion for the animations and integrate it with Tailwind CSS.
 
 
 Prompt 6:
-Add hover effects to the call-to-action button and project cards. On hover, buttons should scale up slightly with a shadow. Project cards should slightly lift and show a subtle border glow.
+- Add hover effects to the call-to-action button and project cards. On hover, buttons should scale up slightly with a shadow. Project cards should slightly lift and show a subtle border glow.
 
 
 Prompt 7:
-Add a dark/light theme toggle button in the top-right corner using ShadCN's Switch component or a toggle icon. Connect it to Tailwind's dark mode classes and persist the preference using localStorage.
+- Add a dark/light theme toggle button in the top-right corner using ShadCN's Switch component or a toggle icon. Connect it to Tailwind's dark mode classes and persist the preference using localStorage.
 
 
 Prompt 8:
-Add this one more project Movie Recommendation System | Python (Scikit-learn, Pandas), Tableau Oct 2023 – Dec 2023
+- Add this one more project Movie Recommendation System | Python (Scikit-learn, Pandas), Tableau Oct 2023 – Dec 2023
 • Built a KNN-based collaborative filtering recommendation system using user ratings and metadata for 1M+ movies
 • Preprocessed and cleaned 1M+ rows of data with advanced data preprocessing techniques to ensure high-quality inputs
 • Trained and evaluated the model with 85% accuracy in predicting user preferences, reducing errors by 20%
@@ -64,23 +64,23 @@ Food Inspection Analysis | Azure Data Factory, ETL/ELT
 
 
 Prompt 9:
-Add a dark/light theme toggle button in the top-right corner using ShadCN's Switch component or a toggle icon. Connect it to Tailwind's dark mode classes and persist the preference using localStorage.
-Add a sticky top navigation bar with links: Home, Projects, Contact. When clicked, the page should smoothly scroll to the corresponding section. Highlight the active section in the navbar.
-In the hero or contact section, add a "Download Resume" button that links to a hosted PDF file (Resume_APD_2025.pdf). Use ShadCN's Button component and a download icon.
-For each project card, add logos or icons representing the tech stack (like Python, Spark, Tableau, PostgreSQL). Use Lucide-react or Heroicons, or import logos from a CDN. Display them in a row at the bottom of each card.
-Ensure all layout elements are mobile-first with proper padding and touch targets. Increase spacing between buttons on small screens. Stack project card content vertically for better readability on mobile.
-Ensure all layout elements are mobile-first with proper padding and touch targets. Increase spacing between buttons on small screens. Stack project card content vertically for better readability on mobile.
-Reorder the layout to the following:
+- Add a dark/light theme toggle button in the top-right corner using ShadCN's Switch component or a toggle icon. Connect it to Tailwind's dark mode classes and persist the preference using localStorage.
+- Add a sticky top navigation bar with links: Home, Projects, Contact. When clicked, the page should smoothly scroll to the corresponding section. Highlight the active section in the navbar.
+I- n the hero or contact section, add a "Download Resume" button that links to a hosted PDF file (Resume_APD_2025.pdf). Use ShadCN's Button component and a download icon.
+- For each project card, add logos or icons representing the tech stack (like Python, Spark, Tableau, PostgreSQL). Use Lucide-react or Heroicons, or import logos from a CDN. Display them in a row at the bottom of each card.
+- Ensure all layout elements are mobile-first with proper padding and touch targets. Increase spacing between buttons on small screens. Stack project card content vertically for better readability on mobile.
+- Ensure all layout elements are mobile-first with proper padding and touch targets. Increase spacing between buttons on small screens. Stack project card content vertically for better readability on mobile.
+- Reorder the layout to the following:
 1. Hero
 2. About/Timeline
 3. Projects
 4. Contact
-Add section headings with large text and underlines to separate them visually.
-Add a clean footer at the bottom of the page with your name, copyright year, and links to LinkedIn and email.
+- Add section headings with large text and underlines to separate them visually.
+- Add a clean footer at the bottom of the page with your name, copyright year, and links to LinkedIn and email.
 
 
 Prompt 10:
-Polish the overall design:
+- Polish the overall design:
 - Use consistent padding, font sizes, and spacing across all sections (Hero, About, Projects, Contact).
 - Add max-width to all content containers for better layout control.
 - Center-align text on mobile screens, left-align on desktop.
