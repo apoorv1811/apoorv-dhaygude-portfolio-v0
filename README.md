@@ -105,7 +105,7 @@ Also add a crazy, eye-catching homepage animation:
 - Upload this resume in dowload resume section Resume_APD_2025.pdf
 
 
-Prompt 14:
+### Prompt 14:
 - Add a subtle **glowing particle background** (similar to Vanta.js or Three.js)
 
 
